@@ -15,9 +15,9 @@ This README file contains instructions on how to build executables from main pro
 
 ## User Guide for Executing Simulations
 
-1) Instructions on Building Executable for the source file: `Infectious_Disease_Exercise_1.cc`: 
+1) To run the simulation for Infectious Disease Exercise #1:
 
-- Link the object file entitled `Infectious_Disease_Exercise_1.o`  created from compilation of the source file `Infectious_Disease_Exercise_1.cc` with the object file entitled `Infectious_Disease_Simulation_Library.o` created by compiling the header entitled `Infectious_Disease_Simulation_Library.h` which contains the `Person` and `Population` class definitions. 
+  a) <compiler> Infectious_Disease_Exercise_1.cc -o <executable>
 
 2) Instructions on Building Executable for the source file: `Infectious_Disease_Simulation_Exercise_2.cc`:
 
