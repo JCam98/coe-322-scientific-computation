@@ -17,7 +17,7 @@ This README file contains instructions on how to build executables from main pro
 
 1) To run the simulation for Infectious Disease Exercise #1:
 
-  a) `<compiler>` Infectious_Disease_Exercise_1.cc -o <executable>
+  a) `<compiler> Infectious_Disease_Exercise_1.cc -o <executable>`
 
 2) Instructions on Building Executable for the source file: `Infectious_Disease_Simulation_Exercise_2.cc`:
 
