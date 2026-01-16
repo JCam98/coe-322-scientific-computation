@@ -16,7 +16,7 @@ This README file contains instructions on how to build executables from main pro
 
 To run the simulations for Infectious Disease Exercises #1 - #5 on a Mac/Linux OS:
 
-> 1) `<compiler_name> Infectious_Disease_Exercise_<exercise_no>.cc -o <executable_name>`
+> 1) `<compiler_name> IDSE_<exercise_no>.cc -o <executable_name>`
 > 2) `./<executable_name>`
 
 > Note: The g++ compiler was used for development. 
