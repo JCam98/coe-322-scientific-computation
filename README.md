@@ -4,6 +4,8 @@
 
 The purpose of the Infectious Disease Simulation Project was to achieve a basic understanding of how an infection propagates through a population by running simulations under a variety of different conditions using object-oriented programming constructs.
 
+## 📺 [View the Project Walkthrough Here](https://www.youtube.com/watch?v=MMnxBYDtBww)
+
 ## Academic Use Notice
 
 This repository contains solutions developed as part of COE 322: Scientific Computation.
