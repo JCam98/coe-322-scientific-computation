@@ -7,8 +7,7 @@ The purpose of the Infectious Disease Simulation Project was to achieve a basic 
 ## Academic Use Notice
 
 This repository contains solutions developed as part of COE 322: Scientific Computation.
-It reflects completed coursework and is intended for reference only. Current students should
-not submit this work as their own.
+It reflects completed coursework. Current students should not submit this work as their own.
 
 This README file contains instructions on how to build executables from main programs and library used in exercises 1-5 for the Infectious Disease Simulation Project.
 
@@ -19,4 +18,5 @@ To run the simulations for Infectious Disease Exercises #1 - #5 on a Mac/Linux O
 > 1) `<compiler_name> IDSE_<exercise_no>.cc -o <executable_name>`
 > 2) `./<executable_name>`
 
-> Note: The g++ compiler was used for development. 
+> Note: The g++ compiler was used for development.
+
