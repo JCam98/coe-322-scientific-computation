@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of the Infectious Disease Simulation Project was to achieve a basic understanding of how an infection propagates through a population by running simulations under a variety of different conditions using object-oriented programming constructs.
+The purpose of the Infectious Disease Simulation Project was to achieve a basic understanding of how an infection propagates through a population by running simulations under a variety of different conditions using object-oriented programming constructs in C++.
 
 ## 📺 [View the Project Walkthrough Here](https://www.youtube.com/watch?v=MMnxBYDtBww)
 
